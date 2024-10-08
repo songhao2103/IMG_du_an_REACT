@@ -1,0 +1,9 @@
+/* .list_media {
+  display: flex;
+  flex-direction: column;
+} */
+
+img {
+  width: auto;
+  height: auto;
+}
