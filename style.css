@@ -11,3 +11,8 @@ img {
 body {
   background-color: red;
 }
+
+.item {
+  width: 200px;
+  object-fit: cover;
+}
